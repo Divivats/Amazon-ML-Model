@@ -67,4 +67,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any queries or discussions, feel free to reach out:
 - **Author**: Divivats
 - **GitHub**: [Divivats](https://github.com/Divivats)
+- **Author**: Honey Paptan
+- **GitHub**: [HoneyPaptan](https://github.com/HoneyPaptan)
+
 
